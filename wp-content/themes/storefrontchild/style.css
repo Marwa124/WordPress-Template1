@@ -1,0 +1,9 @@
+/*
+Theme Name: storefront.child
+Version: 1.0
+Description: A child theme of OceanWP
+Author: admin
+Template: oceanwp
+*/
+
+@import url("../oceanwp/style.css");
